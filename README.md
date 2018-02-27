@@ -1,4 +1,4 @@
-# GUI-Calendar-in-C
+# Calendar-in-C
 Calendar created using c program
 
  # Screen Shot
